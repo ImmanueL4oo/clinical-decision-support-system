@@ -1,4 +1,4 @@
-# COMP 4111 Assignment 2: Rule-Based CDSS
+# : Rule-Based CDSS
 
 Educational Python implementation. No external packages are required.
 The rules are assignment examples, not clinical diagnostic guidelines.
